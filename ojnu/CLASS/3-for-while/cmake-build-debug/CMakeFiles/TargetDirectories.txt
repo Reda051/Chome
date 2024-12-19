@@ -1,0 +1,8 @@
+/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug/CMakeFiles/stars.dir
+/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug/CMakeFiles/digits.dir
+/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug/CMakeFiles/binary.dir
+/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug/CMakeFiles/palindrome.dir
+/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug/CMakeFiles/prime.dir
+/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug/CMakeFiles/selection.dir
+/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug/CMakeFiles/rebuild_cache.dir

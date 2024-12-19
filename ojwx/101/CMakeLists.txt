@@ -1,0 +1,1 @@
+add_executable(home1 home1.c)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(P1000 P1000.c)
+add_executable(p1001 p1001.c)
+add_executable(p1002 p1002.c)
+add_executable(luogutest luogutest.c)

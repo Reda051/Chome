@@ -1,0 +1,7 @@
+/home/reda/CLionProjects/cpl/ojwx/4/cmake-build-debug/CMakeFiles/412.dir
+/home/reda/CLionProjects/cpl/ojwx/4/cmake-build-debug/CMakeFiles/46.dir
+/home/reda/CLionProjects/cpl/ojwx/4/cmake-build-debug/CMakeFiles/411.dir
+/home/reda/CLionProjects/cpl/ojwx/4/cmake-build-debug/CMakeFiles/4.9.dir
+/home/reda/CLionProjects/cpl/ojwx/4/cmake-build-debug/CMakeFiles/atoA.dir
+/home/reda/CLionProjects/cpl/ojwx/4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reda/CLionProjects/cpl/ojwx/4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(balance balance.c)
+add_executable(matrix matrix-calc.c)
+add_executable(super-array super-array.c)

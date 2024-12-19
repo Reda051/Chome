@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binary-Debug-15a503bdc299342b8438.json",
+					"name" : "binary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "digits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digits-Debug-4b053ba2d0c118b1eac9.json",
+					"name" : "digits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "palindrome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-palindrome-Debug-862f9120fef51789f9e3.json",
+					"name" : "palindrome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prime::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prime-Debug-37bfec51271c83af4eb7.json",
+					"name" : "prime",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selection-Debug-6b52034d421528db4eb7.json",
+					"name" : "selection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stars::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stars-Debug-f526b68c80bb1fdd97ce.json",
+					"name" : "stars",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while/cmake-build-debug",
+		"source" : "/home/reda/CLionProjects/cpl/ojnu/CLASS/3-for-while"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

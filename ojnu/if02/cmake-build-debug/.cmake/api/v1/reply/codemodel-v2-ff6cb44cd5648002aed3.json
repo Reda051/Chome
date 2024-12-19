@@ -1,0 +1,130 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "no",
+					"jsonFile" : "directory-no-Debug-6c6e40a61669c92a5d94.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "no"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "cpl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "blackhole::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blackhole-Debug-4b62e704503c358dbcdd.json",
+					"name" : "blackhole",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "converter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-converter-Debug-d0e28a43d301d06acab0.json",
+					"name" : "converter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "factorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-factorial-Debug-24131e35178c188c982e.json",
+					"name" : "factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "farm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-farm-Debug-e9e59697d06193151658.json",
+					"name" : "farm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "single::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-single-Debug-c42b186b8e587af95a0d.json",
+					"name" : "single",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "standup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-standup-Debug-c18dbfc6f5cbf627e5ab.json",
+					"name" : "standup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ts-Debug-516e8804693d494d62ee.json",
+					"name" : "ts",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug",
+		"source" : "/home/reda/CLionProjects/cpl/ojnu/if02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(fake_news fake_news.c)
+add_executable(coded-lock coded-lock.c)
+add_executable(WanderBell WanderBell.c)

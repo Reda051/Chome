@@ -1,0 +1,8 @@
+# ninja log v6
+0	54	1728399958305568319	if-for-array/CMakeFiles/leap.dir/leap.c.o	2a47dd51c6160661
+24	44	1727917133214064951	infosys	eba289b2edcf20e1
+54	84	1728399958358595626	if-for-array/leap	b72d91d3414aa801
+1	58	1728389676716855768	if-for-array/CMakeFiles/min-of-three.dir/min-of-three.c.o	5839d546d42e8287
+58	87	1728389676773855683	if-for-array/min-of-three	e04e0b7b5cdc4f34
+2	40	1729226929022787903	3-for-while/CMakeFiles/binary.dir/binary-search.c.o	635acdafd659c667
+41	80	1729226929061787263	3-for-while/binary	a06e3d1b8c7e5e89

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(csgo csgo.c)
+add_executable(tokenizer tokenizer.c)
+add_executable(strs_cat strs_cat.c)
+add_executable(strs_interleaf strs_interleaf.c)

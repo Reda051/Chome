@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(seqsearch seqsearch.c)
+add_executable(SumNum sum.c)
+add_executable(exchange exchangesort.c)
+add_executable(matrixmult matrixmult.c)
+add_executable(binarysearch binarysearch.c)

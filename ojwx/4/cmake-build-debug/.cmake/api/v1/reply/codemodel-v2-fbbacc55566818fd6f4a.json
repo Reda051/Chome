@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4.9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.9-Debug-9cc68a433b448125b492.json",
+					"name" : "4.9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "411::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-411-Debug-77e2b105d3f7917cf719.json",
+					"name" : "411",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "412::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-412-Debug-57f0e784b0d1cb74e111.json",
+					"name" : "412",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "46::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-46-Debug-e4ea1430cc2c970a809f.json",
+					"name" : "46",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "atoA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-atoA-Debug-56e39e251f9b6a9babd0.json",
+					"name" : "atoA",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/reda/CLionProjects/cpl/ojwx/4/cmake-build-debug",
+		"source" : "/home/reda/CLionProjects/cpl/ojwx/4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

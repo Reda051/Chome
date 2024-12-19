@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(bigtitle BigTitle.c)
+add_executable(interpreter interpreter.c)
+add_executable(substr substr.c)
+add_executable(pife pife.c)

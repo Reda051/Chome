@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(game game-of-life.c)
+add_executable(merge merge.c)
+add_executable(inse insertion-sort.c)
+add_executable(t0 t0.c)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(ee21 ee21.c)
+add_executable(ee22 ee22.c)
+add_executable(ee23 ee23.c)
+add_executable(exptest exptest.c)

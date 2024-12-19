@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(12a 12a.c)
+add_executable(12b 12b.c)
+add_executable(12c 12c.c)
+add_executable(12d 12d.c)
+add_executable(12e 12e.c)

@@ -1,0 +1,6 @@
+D:/cpl/ojnu/CLASS/4-loops/cmake-build-debug/CMakeFiles/game.dir
+D:/cpl/ojnu/CLASS/4-loops/cmake-build-debug/CMakeFiles/merge.dir
+D:/cpl/ojnu/CLASS/4-loops/cmake-build-debug/CMakeFiles/inse.dir
+D:/cpl/ojnu/CLASS/4-loops/cmake-build-debug/CMakeFiles/t0.dir
+D:/cpl/ojnu/CLASS/4-loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cpl/ojnu/CLASS/4-loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir

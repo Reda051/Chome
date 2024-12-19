@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.29.6)
+project(cpl)
+add_executable(stars stars.c)
+add_executable(digits digits.c)
+add_executable(binary binary-search.c)
+add_executable(palindrome palindrome.c)
+add_executable(prime prime.c)
+add_executable(selection selection-sort.c)

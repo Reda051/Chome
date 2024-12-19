@@ -1,0 +1,12 @@
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/ascii.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/change.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/pi-2.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/sensor.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/julian.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/gas.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/io2.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/io3.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/equation.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/io.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reda/CLionProjects/cpl/ojnu/24101/cmake-build-debug/CMakeFiles/rebuild_cache.dir

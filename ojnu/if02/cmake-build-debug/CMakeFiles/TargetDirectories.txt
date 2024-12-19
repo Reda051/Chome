@@ -1,0 +1,11 @@
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/farm.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/blackhole.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/converter.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/standup.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/single.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/factorial.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/ts.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/no/CMakeFiles/edit_cache.dir
+/home/reda/CLionProjects/cpl/ojnu/if02/cmake-build-debug/no/CMakeFiles/rebuild_cache.dir

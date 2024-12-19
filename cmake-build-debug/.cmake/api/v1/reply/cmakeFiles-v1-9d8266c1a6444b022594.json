@@ -1,0 +1,294 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "objects/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/CLASS/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/CLASS/if-for-array/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/CLASS/3-for-while/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/CLASS/5funct/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/CLASS/pointers/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/24101/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/if02/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/if02/no/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/forawhile/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/datatype/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/function/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/4loops/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/7-pointers-arrays/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/8pointers/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/23exam1/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/24exam1/CMakeLists.txt"
+		},
+		{
+			"path" : "ojnu/23exam2/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/2/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/3/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/4/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/5/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/6/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/7/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/8/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/9/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/10/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/11/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/12/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/101/CMakeLists.txt"
+		},
+		{
+			"path" : "FOA/CMakeLists.txt"
+		},
+		{
+			"path" : "FOA/algorithm/CMakeLists.txt"
+		},
+		{
+			"path" : "ACMT/CMakeLists.txt"
+		},
+		{
+			"path" : "ACMT/1/CMakeLists.txt"
+		},
+		{
+			"path" : "ACMT/2/CMakeLists.txt"
+		},
+		{
+			"path" : "ACMT/3/CMakeLists.txt"
+		},
+		{
+			"path" : "ACMT/4/CMakeLists.txt"
+		},
+		{
+			"path" : "ACMT/5/CMakeLists.txt"
+		},
+		{
+			"path" : "ACMT/6/CMakeLists.txt"
+		},
+		{
+			"path" : "Luogu/CMakeLists.txt"
+		},
+		{
+			"path" : "ojwx/experiment/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "D:/cpl/cmake-build-debug",
+		"source" : "D:/cpl"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
